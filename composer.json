@@ -1,0 +1,31 @@
+{
+    "name": "justbetter/statamic-component-preview",
+    "autoload": {
+        "psr-4": {
+            "JustBetter\\StatamicComponentPreview\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kevin Meijer",
+            "email": "kevin@justbetter.nl",
+            "role": "Developer"
+        },
+        {
+            "name": "Bob Wezelman",
+            "email": "bob@justbetter.nl",
+            "role": "Developer"
+        }
+    ],
+    "extra": {
+        "statamic": {
+            "name": "Component Preview",
+            "description": "Component Preview addon"
+        },
+        "laravel": {
+            "providers": [
+                "JustBetter\\StatamicComponentPreview\\ServiceProvider"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "resources/css/component-preview.css": {
+    "file": "assets/component-preview-315387fd.css",
+    "isEntry": true,
+    "src": "resources/css/component-preview.css"
+  },
+  "resources/js/component-preview.js": {
+    "file": "assets/component-preview-c22118e1.js",
+    "isEntry": true,
+    "src": "resources/js/component-preview.js"
+  }
+}

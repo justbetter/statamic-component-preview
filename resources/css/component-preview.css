@@ -1,0 +1,9 @@
+@import "tailwindcss/utilities";
+
+.replicator-set .component_preview-fieldtype {
+    @apply z-10 !p-0;
+}
+
+.replicator-set .component_preview-fieldtype > label {
+    @apply !hidden;
+}
